@@ -1,0 +1,49 @@
+
+body {
+    text-align: center;
+  }
+  
+  #main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightgray;
+  }
+  
+  #title {
+    padding-top: 50px;
+  }
+  
+  #img-caption {
+    padding-top: 20px;
+  }
+  
+  #img-div {
+    background-color: white;
+    padding: 50px 20%;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  
+  #tribute-info h3 {
+    padding-top: 50px;
+  }
+  
+  #tribute-info p {
+    text-align: left;
+    line-height: 25px;
+    font-style: italic;
+  }
+  
+  ul {
+    text-align: left;
+  }
+  
+  .bottom {
+    padding-bottom: 50px;
+  }
+  
